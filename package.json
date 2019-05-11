@@ -2,5 +2,9 @@
   "name": "curstom-response",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@slack/events-api": "^2.2.0",
+    "@slack/web-api": "^5.0.1"
+  }
 }
