@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@slack/events-api": "^2.2.0",
-    "@slack/web-api": "^5.0.1"
+    "@slack/web-api": "^5.0.1",
+    "typescript": "^3.4.5"
   }
 }
