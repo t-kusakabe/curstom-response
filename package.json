@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "tslint": "tslint --fix 'src/**/*.ts'",
+    "prettier": "prettier --write src/**/*.ts"
+  },
   "dependencies": {
     "@slack/events-api": "^2.2.0",
     "@slack/web-api": "^5.0.1",
